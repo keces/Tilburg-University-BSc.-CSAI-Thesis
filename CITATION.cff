@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ertizman"
+  given-names: "Kayra Ecesu"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Thesis CNN Tumor Classification Code"
+version: 1.0.0
+date-released: 2022-05-12
+url: "https://github.com/keces/Tilburg-University-BSc.-CSAI-Thesis"
