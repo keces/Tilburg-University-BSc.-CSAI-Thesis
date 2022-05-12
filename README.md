@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Ecesu
-- 👀 I’m interested in Artificial Intelligence, Deep Learning, Machine Learning
-- 🌱 I’m currently learning Image Super-Resolution
+The THESIS CNN FINAL.ipynb file contains the binary classification code using Convolutional Neural Networks to classify between malignant and benign breast tumor images.
 
